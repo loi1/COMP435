@@ -1,0 +1,3 @@
+1. 146047
+2. 403
+3. It's easier to find collision.
